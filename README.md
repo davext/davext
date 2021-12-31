@@ -30,4 +30,8 @@ I graduated in 2019 with a bachelors degree in Computer Sciences from University
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dave_xt&cover_image=true&theme=default&bar_color=ff3224)](https://github.com/kittinan/spotify-github-profile)
   
+ Find me on StackOverflow <br/>
+ [![David's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8480136)](https://stackoverflow.com/users/8480136/david-harvey)
+
+  
   </div>
