@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <img src="./softwaredev.gif" width="100%"/>
-<div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hey there! I'm David-- A full stack engineer. I'm also into <a href="https://instagram.com/dave_xt">photography</a>, and working out! <br/><br/>
+<div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:25px">Hey there! I'm David-- A full stack engineer. I'm also into <a href="https://instagram.com/dave_xt">photography</a>, and working out! <br/><br/>
 
 I currently work at <a href="https://viverapharmaceuticals.com?utm=github.com/davext">Vivera Pharmaceuticals</a> out here in beautiful Southern California. Currently bulilding <a href="https://labport.app?utm=github.com/davext">LabPort</a> and many other <a href="https://viverapharmaceuticals.com/patents-licensing?utm=github.com/davext">projects</a>!<br/>
-I graduated in 2019 with a bachelors degree in Computer Sciences from University of California, Irvine.
+I graduated in 2019 with a bachelors degree in Computer Sciences from <a href="https://uci.edu/">University of California, Irvine. </a>
 
 
-
+![](https://hit.yhype.me/github/profile?user_id=18369214)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davext&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
