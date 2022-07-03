@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="./softwaredev.gif" width="100%"/>
-<div align="center"><img style="width:20%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">Hey there! I'm David-- A full stack engineer. I'm also into <a href="https://instagram.com/dave_xt">photography</a>, and working out! <br/><br/>
+<div align="center"><img  width="21" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">Hey there! I'm David-- A full stack engineer. I'm also into <a href="https://instagram.com/dave_xt">photography</a>, and working out! <br/><br/>
 
 I currently work at <a href="https://viverapharmaceuticals.com?utm=github.com/davext">Vivera Pharmaceuticals</a> out here in beautiful Southern California. Currently bulilding <a href="https://labport.app?utm=github.com/davext">LabPort</a> and many other <a href="https://viverapharmaceuticals.com/patents-licensing?utm=github.com/davext">projects</a>!<br/>
 I graduated in 2019 with a bachelors degree in Computer Sciences from <a href="https://uci.edu/">University of California, Irvine. </a>
