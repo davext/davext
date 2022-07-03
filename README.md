@@ -23,7 +23,6 @@ I graduated in 2019 with a bachelors degree in Computer Sciences from <a href="h
 
 ![](https://hit.yhype.me/github/profile?user_id=18369214)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davext&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -33,5 +32,6 @@ I graduated in 2019 with a bachelors degree in Computer Sciences from <a href="h
  Find me on StackOverflow <br/>
  [![David's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8480136)](https://stackoverflow.com/users/8480136/david-harvey)
 
-  
+  ![davext](https://komarev.com/ghpvc/?username=davext&label=Profile%20views&color=47e3ff&style=flat)
+
   </div>
